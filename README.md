@@ -2,8 +2,6 @@
 |------------|-------------|
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-![GitHub followers](https://img.shields.io/github/followers/monowar93?style=social)
-![GitHub stars](https://img.shields.io/github/stars/monowar93?style=social)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -12,6 +10,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=monowar93)
 
 ![Monowar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monowar93&theme=react-dark)
+
 
 ## 🔥 Pinned Repositories
 
