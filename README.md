@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 # Hi, I'm Tarek Monowar 👋
 
 Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionate **UI/UX Designer**. I specialize in creating dynamic, responsive, and user-friendly web applications with modern technologies. I'm also committed to continuous learning and exploring innovative solutions to build efficient and scalable web applications.
