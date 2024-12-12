@@ -2,8 +2,8 @@
 |------------|-------------|
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-
-![Idea](https://img.shields.io/badge/Idea-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow)  
+### Your Ideas
+![Your Ideas](https://img.shields.io/badge/Your%20Ideas-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow)  
 ![Design](https://img.shields.io/badge/Design-FFFFFF?style=for-the-badge&logo=adobe&logoColor=black)  
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6600?style=for-the-badge&logo=figma&logoColor=white)  
 
@@ -52,6 +52,7 @@
 ### Monitoring & Analytics
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-F1F1F1?style=for-the-badge&logo=googleanalytics&logoColor=black)  
 ![Sentry](https://img.shields.io/badge/Sentry-363636?style=for-the-badge&logo=sentry&logoColor=white)  
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=monowar93)
 
