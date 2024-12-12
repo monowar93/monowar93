@@ -2,24 +2,19 @@
 |------------|-------------|
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-3B5998?style=for-the-badge&logo=auth0&logoColor=white)
 
 ![Profile views](https://komarev.com/ghpvc/?username=monowar93)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&theme=radical)
 
-
-
-## 🔥 Pinned Repositories
-
-[![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=monowar93&repo=readme-generator)](https://github.com/monowar93/readme-generator)
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=monowar93&repo=portfolio)](https://github.com/monowar93/portfolio)
-
-![Build Status](https://img.shields.io/github/workflow/status/monowar93/your-repo-name/CI?style=flat-square)
-![Test Status](https://img.shields.io/github/actions/workflow/status/monowar93/your-repo-name/test.yml?branch=main&style=flat-square)
 
 
 # Hi, I'm Tarek Monowar 👋
