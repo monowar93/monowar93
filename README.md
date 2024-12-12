@@ -9,7 +9,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=monowar93)
 
-![Monowar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monowar93&theme=react-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&theme=radical)
+
 
 
 ## 🔥 Pinned Repositories
