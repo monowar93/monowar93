@@ -2,6 +2,24 @@
 |------------|-------------|
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
+![GitHub followers](https://img.shields.io/github/followers/monowar93?style=social)
+![GitHub stars](https://img.shields.io/github/stars/monowar93?style=social)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Profile views](https://komarev.com/ghpvc/?username=monowar93)
+
+![Monowar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monowar93&theme=react-dark)
+
+## 🔥 Pinned Repositories
+
+[![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=monowar93&repo=readme-generator)](https://github.com/monowar93/readme-generator)
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=monowar93&repo=portfolio)](https://github.com/monowar93/portfolio)
+
+![Build Status](https://img.shields.io/github/workflow/status/monowar93/your-repo-name/CI?style=flat-square)
+![Test Status](https://img.shields.io/github/actions/workflow/status/monowar93/your-repo-name/test.yml?branch=main&style=flat-square)
 
 
 # Hi, I'm Tarek Monowar 👋
