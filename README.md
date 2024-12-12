@@ -50,8 +50,8 @@ Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmono
 
 ## 🔖 **GitHub Stats**
 
-![Tarek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarekmonowar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=compact&theme=radical)
 
 ---
 
