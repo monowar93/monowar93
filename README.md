@@ -50,7 +50,7 @@ Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmono
 
 ## 🔖 **GitHub Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monowar93)](https://github.com/monowar93/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=compact&theme=radical)
 
 ---
