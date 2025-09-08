@@ -1,107 +1,144 @@
-| Contribution Insights | Language Proficiency|
-|------------|-------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
+<p align="center">
+  <img src="https://res.cloudinary.com/dlayfdbyq/image/upload/v1756878998/Yellow_Monochrome_Photo_LinkedIn_Banner_rd9jq9.png" alt="Tarek Monowar Banner" style="width:100%; max-width:1000px; border-radius:12px;" />
+</p>
 
-### Your Ideas
-![Your Ideas](https://img.shields.io/badge/Your%20Ideas-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow)  
-![Design](https://img.shields.io/badge/Design-FFFFFF?style=for-the-badge&logo=adobe&logoColor=black)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6600?style=for-the-badge&logo=figma&logoColor=white)  
-
-### Front-End Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### Back-End Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### Authentication and Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  
-![OAuth](https://img.shields.io/badge/OAuth-2E5B6D?style=for-the-badge&logo=oauth&logoColor=white)  
-![bcrypt](https://img.shields.io/badge/bcrypt-FFD700?style=for-the-badge&logo=hashnode&logoColor=black)  
-
-### Development Tools & Miscellaneous
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)  
-
-### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)  
-
-### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white)  
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
-
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-
-### Monitoring & Analytics
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-F1F1F1?style=for-the-badge&logo=googleanalytics&logoColor=black)  
-![Sentry](https://img.shields.io/badge/Sentry-363636?style=for-the-badge&logo=sentry&logoColor=white)  
-
-
-![Profile views](https://komarev.com/ghpvc/?username=monowar93)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td style="vertical-align: top; text-align: center;">
+      <h1 style="font-weight: bold;">
+        <span style="color:#2F80ED;">Tarek Monowar</span>
+      </h1>
+      <p>
+      I am a dedicated <strong>Fullstack Developer</strong> passionate about building <strong>high-performance</strong> and scalable web applications. I enjoy solving complex problems and delivering seamless, impactful digital experiences. Here’s a brief overview of my skills and experience:
+      </p>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://github.com/tarekmonowar">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" style="max-width: 100%;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
-# Hi, I'm Tarek Monowar 👋
 
-Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionate **UI/UX Designer**. I specialize in creating dynamic, responsive, and user-friendly web applications with modern technologies. I'm also committed to continuous learning and exploring innovative solutions to build efficient and scalable web applications.
+ ## Technologies I Work With
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,graphql,vite" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,fastapi,aws" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,redux" />
+  </a>
+</p>
+
+
+
+
+
 
 ---
-
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Authentication](https://img.shields.io/badge/Authentication-3B5998?style=for-the-badge&logo=auth0&logoColor=white)
-
-
 ## 🔧 **Tech Stack**
 
 ### Frontend Development:
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React.js, Next.js
-- **Styling Tools:** TailwindCSS, Bootstrap, SASS/SCSS
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Your%20Ideas-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow" alt="Your Ideas">
+  <img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-ES6%2B-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+
+</div>
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+) , TypeScript
+- **Frameworks/Libraries:** React.js, Redux , Next.js
+- **Styling Tools:** TailwindCSS, ShadCN UI , Framer motion , Bootstrap, SASS/SCSS
 - **UI/UX Design:** Figma, Adobe XD
 
-### Backend Development:
-- **Languages:** JavaScript (Node.js)
-- **Frameworks:** Express.js
-- **Databases:** MongoDB, MySQL
-- **Authentication:** JSON Web Tokens (JWT), OAuth
 
+
+
+---
+### Backend Development:
+
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL">
+  <img src="https://img.shields.io/badge/Authentication-3B5998?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication">
+  <img src="https://img.shields.io/badge/OAuth-2E5B6D?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+<img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+<img src="https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API">
+</div>
+
+
+- **Languages:** TypeScript (Node.js) 
+- **Frameworks:** Express.js
+- **Databases:** MongoDB, Postgre SQL
+- **Authentication:** JSON Web Tokens (JWT), OAuth, bcrypt, Stripe, Rest API , Prisma
+- **Testing:** Jest,Mocha
+
+
+
+
+---
 ### Other Tools:
+
+
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  
+
+  
+</div>
+
+  
+
 - **Version Control:** Git & GitHub
-- **Package Management:** npm, Yarn
-- **Deployment:** Vercel, Netlify, Render, Fly.io
+- **Package Management:** npm,yarn
+- **Deployment:** Vercel, Netlify, Render, Render, Heroku , AWS
 - **Development Practices:** REST API design, Agile methodology, Responsive design
 
 ---
 
 ## 🌟 **What I Do**
 
-- **Full-Stack Web Development:** Build end-to-end applications with seamless integration of frontend and backend.
+- **Full-Stack Web Development:** Build end-to-end applications with seamless integration of frontend, backend and database.
 - **UI/UX Design:** Design user interfaces focused on enhancing the user experience.
 - **Responsive Design:** Develop websites that are optimized for all devices (mobile-first approach).
 - **Authentication Systems:** Implement secure login and registration systems.
@@ -111,44 +148,33 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 
 ## 🔼 **My Portfolio**
 
-Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmonowar.com).
-
----
-
-## 🔖 **GitHub Stats**
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monowar93)](https://github.com/monowar93/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=compact&theme=radical)
+Check out my live projects and portfolio at [tarekmonowar.vercel.app](https://tarekmonowar.vercel.app).
 
 
 ---
 
 ## 🔒 **Featured Projects**
 
-### 1. [E-Commerce Platform](https://github.com/tarekmonowar/e-commerce)
-A fully responsive e-commerce website with user authentication, product management, and shopping cart functionality.
+### 1. [E-Commerce Platform](https://github.com/tarekmonowar/E-Commerce-FrontEnd)
+A fully responsive e-commerce website with user authentication, product management, shopping cart functionality and admin dashboard for realtime statastics and insight.
 - **Tech Stack:** React.js, Node.js, MongoDB, TailwindCSS
 
-### 2. [Personal Portfolio](https://github.com/tarekmonowar/portfolio)
-Showcase of my projects, skills, and contact form with dynamic animations.
-- **Tech Stack:** Next.js, TailwindCSS
-
-### 3. [Blog Platform](https://github.com/tarekmonowar/blog-platform)
-A blogging platform with CRUD operations and user authentication.
+### 2. [Ride Managment Platform ](https://github.com/tarekmonowar/Ride-Management-FrontEnd)
+A ride management platform where riders can post rides, drivers can accept and update them, and admins can monitor and manage all activities.
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-### 4. [Task Management App](https://github.com/tarekmonowar/task-manager)
-A task manager app with real-time updates and a clean UI.
-- **Tech Stack:** React.js, Node.js, MySQL
+### 3.  [Personal Portfolio](https://github.com/tarekmonowar/tm-main)
+Showcase of my projects, skills, and contact form with dynamic animations.
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
 ## 🚀 **How to Reach Me**
 
-- **Website:** [tarekmonowar.com](https://tarekmonowar.com)
-- **Email:** [tarek@example.com](mailto:tarek@example.com)
-- **LinkedIn:** [linkedin.com/in/tarekmonowar](https://linkedin.com/in/tarekmonowar)
-- **Twitter:** [@tarekmonowar](https://twitter.com/tarekmonowar)
+- **Website:** [tarekmonowar.vercel.app](https://tarekmonowar.vercel.app)
+- **Email:** [tarekmonowar@gmail.com](mailto:tarekmonowar353@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tarekmonowar](https://linkedin.com/in/tarekmonowar/)
+- **Facebook:** [@tarekmonowar](https:www.facebook.com/tarekmonowar93)
 
 ---
 
@@ -168,5 +194,20 @@ A task manager app with real-time updates and a clean UI.
 
 ---
 
-### Let's Build Something Awesome Together!
+
+## 🔖 **| Contribution Insights |**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekmonowar&show_icons=true&theme=transparent)  ![](https://nirzak-streak-stats.vercel.app/?user=tarekmonowar&theme=nightowl&hide_)
+
+
+
+### 🚀 Let's Build Something Awesome Together! 🌟💻
+
+Feel free to reach out — I’d be happy to hear from you! 😊  
+
+✉️ **Email:** [tarekmonowar353@gmail.com.com](mailto:tarekmonowar353@gmail.com)
+
+
+
+
 
